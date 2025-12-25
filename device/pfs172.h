@@ -87,6 +87,8 @@
 #define ADCC_ADDR           0x20
 #define ADCM_ADDR           0x21
 #define ADCR_ADDR           0x22
+#define ADCRH_ADDR          0x22
+#define ADCRL_ADDR          0x23
 //0x23
 //0x24
 //0x25
